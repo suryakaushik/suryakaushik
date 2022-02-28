@@ -1,23 +1,16 @@
-<h1 align=center>Hello there 👋 </h1>
+<h1 align=center>Hello there👋</h1>
 
 <!--ABOUT ME CODE-->
 
-🌱 **About myself**<br>
+🌱 **About myself**<br><br>
 ✔️ I am **Kaushik Kandikonda**, grduated in BE-ECE and currently working as a Software Developer at _Accolite Digital_. <br>
 <samp>
 :notebook: I am an avid reader of new tech like HTTP/3, Serverless and Cloud Computing, Building Distributed Infrastructure(System Design) and a beginner in Competitive Programming.<br>
-
 :sparkles: Favorite Tech: JavaScript, React, Typescript. <br>
-
 :briefcase: I did various projects in ML/DL, IoT, Web Apps using React and Angular7<br>
-
-    :art: Portfolio: https://suryakaushik.github.io/portfolio<br>
-
-    📝 [Resume]() <br>
-
-  </samp>
-
-<br>
+:art: Portfolio: https://suryakaushik.github.io/portfolio<br>
+📝 [Resume]() <br>
+</samp>
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 
@@ -25,34 +18,42 @@
 
 <!-- SOCIAL MEDIA HANDLES -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-SuryaKaushik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/surya-kaushik/)](https://www.linkedin.com/surya-kaushik/)
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-Surya Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/surya-kaushik/)](https://www.linkedin.com/surya-kaushik/)
 
 [![Gmail Badge](https://img.shields.io/badge/-klsskaushik718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klsskaushik718@gmail.com)](mailto:klsskaushik718@gmail.com)
+
+</p>
 
 ---
 
 📶 Stats:<br><br>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
  
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
+
 <!--  TOP LANGUAGES STATISTICS -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=dark&layout=compact&show_icons=true&hide_border=false&align=left&width=40%25)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<p align="center">
 <!--  PROFILES VIEWS -->
 
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🌱 **Profile Views**&nbsp;
 ![visitors](https://profile-counter.glitch.me/suryakaushik/count.svg?align=right)
 
+</p>
 <!-- GITHUB STATISTICS -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right) <hr>
+![Github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right)
 
+</p>
+ <hr>
 </details>
-
----
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
 
@@ -63,8 +64,6 @@
 <!-- ACTIVITY GRAPH TRACKER -->
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center)](https://github.com/suryakaushik/github-readme-activity-graph)
-
----
 
   </code>
 </p>
