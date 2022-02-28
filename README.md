@@ -22,10 +22,9 @@
 📝 [Resume](https://drive.google.com/file/d/1RH3smHEAM59p6gCJ1A4s8y0oDe5JRB-b/view?usp=sharing) <br>
 </samp>
 
+<br>
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<br>
-    <p align="right"><a href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star</a></p>
-<br>
+<p align="right"><a href="https://stars.github.com/nominate/">⭐ You love what you see, Nominate me for GitHub Star</a></p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
 ### :zap:  &nbsp;GitHub Stats
@@ -44,6 +43,7 @@
     </a>
     <!--  PROFILE VIEWS -->
     <a> <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
+    <br>
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
         <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center&layout=compact"/>
