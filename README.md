@@ -33,15 +33,17 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
 <!--  CONTRIBUTION AND STREAK BLOCK -->
 <a align="center" href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
 </a>
-<!--  PROFILE VIEWS -->
 <br>
+<!--  PROFILE VIEWS -->
 <a align="center">
     📶 PROFILE COUNT &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
 </a>
+</p>
 <br>
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
