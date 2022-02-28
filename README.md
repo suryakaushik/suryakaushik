@@ -39,9 +39,9 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
     <!--  PROFILE VIEWS -->
-    <a align="right">
+    <a>
         📶 Profile Count &nbsp; <br>
-        <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
+        <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
     </a>
     <br><br>
     <!-- ACTIVITY GRAPH TRACKER -->
