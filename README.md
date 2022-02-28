@@ -1,4 +1,7 @@
 <h1 align="center">Hello there👋 </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rammohanreddy3149&label=Profile%20views&color=0e75b6&style=flat" alt="rammohanreddy3149" /> </p>
+
 <p align="right">
     <a href="https://www.linkedin.com/surya-kaushik/">
         <img src="https://img.shields.io/badge/-Surya%20Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
@@ -18,6 +21,8 @@
 :art: Portfolio: https://suryakaushik.github.io/<br>
 📝 <a href="https://drive.google.com/file/d/1RH3smHEAM59p6gCJ1A4s8y0oDe5JRB-b/view?usp=sharing">Resume</a> <br>
 </samp>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rammohanreddy3149" alt="rammohanreddy3149" /></a> </p>
 
 <br>
 <!--NOMINATION FOR STAR GIT LINK CODE-->
