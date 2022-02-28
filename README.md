@@ -1,14 +1,17 @@
-<h1 align="center">Hello there👋 </h1>
+
 
 <!-- SOCIAL MEDIA HANDLES -->
-### 🤝🏻 &nbsp;Connect with Me
+<!-- ### 🤝🏻 &nbsp;Connect with Me -->
 <p align="center">
+    <h1 align="left">Hello there👋 </h1>
+    <p align="right">
     <a href="https://www.linkedin.com/surya-kaushik/">
         <img src="https://img.shields.io/badge/-Surya%20Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
     <a href="mailto:klsskaushik718@gmail.com">
         <img src="https://img.shields.io/badge/-klsskaushik718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
+    </p>
 </p>
 
 <!--ABOUT ME CODE-->
