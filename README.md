@@ -40,8 +40,8 @@
     </a>
     <!--  PROFILE VIEWS -->
     <a align="right">
-        &nbsp;Profile Count <br>
-        <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
+        📶 &nbsp; **Profile Count**  <br>
+        <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
     </a>
     <br><br>
     <!-- ACTIVITY GRAPH TRACKER -->
