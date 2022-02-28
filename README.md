@@ -1,7 +1,7 @@
 <h1 align="center">Hello there👋 </h1>
 
 <p align="right">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryakaushik&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+    <a> <img align="left" src="https://komarev.com/ghpvc/?username=suryakaushik&label=Profile%20views&color=0e75b6&style=flat" /> </a>
     <a href="https://www.linkedin.com/surya-kaushik/">
         <img src="https://img.shields.io/badge/-Surya%20Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
     </a>
@@ -22,7 +22,7 @@
 </samp>
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rammohanreddy3149" alt="rammohanreddy3149" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryakaushik" /></a> </p>
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <p align="right"><a href="https://stars.github.com/nominate/">⭐ Love what you see, Nominate me for GitHub Star</a></p>
@@ -45,7 +45,7 @@
     <br><br>
     <!--  PROFILE VIEWS -->
     <a>
-        📶 PROFILE COUNT &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
+        📶 <b>GITHUB PAGE COUNT<b> &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
     </a>
 </p>
 <br>
