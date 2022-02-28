@@ -39,16 +39,16 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
     <!--  PROFILE VIEWS -->
-    <a>
+    <a align="right">
         📶 Profile Count &nbsp; <br>
         <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
     </a>
+</p>
     <br><br>
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
         <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
     </a>
-</p>
 
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
