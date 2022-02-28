@@ -1,4 +1,14 @@
 <h1 align=center>Hello there👋 </h1>
+<!-- SOCIAL MEDIA HANDLES -->
+### 🤝🏻 &nbsp;Connect with Me
+<p align="center">
+    <a href="https://www.linkedin.com/surya-kaushik/">
+        <img src="https://img.shields.io/badge/-Surya%20Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:klsskaushik718@gmail.com">
+        <img src="https://img.shields.io/badge/-klsskaushik718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+</p>
 
 <!--ABOUT ME CODE-->
 ### 👨🏻‍💻 &nbsp;**About myself**<br><br>
@@ -11,44 +21,35 @@
 📝 [Resume]() <br>
 </samp>
 
+<br>
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star </a>
-
-<!-- SOCIAL MEDIA HANDLES -->
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-    <a href="https://www.linkedin.com/surya-kaushik/">
-        <img src="https://img.shields.io/badge/-Surya%20Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:klsskaushik718@gmail.com">
-        <img src="https://img.shields.io/badge/-klsskaushik718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-</p>
-
----
+<a align="right" href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star </a>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
 <br>
-    <details>
+<details>
     <summary>:zap: GitHub Stats</summary>
-        <!--  TOP LANGUAGES STATISTICS -->
-        <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=dark&layout=compact&show_icons=true&hide_border=false&align=left&width=40%25"/> </a>
-        <p align="center">
-            <!--  PROFILE VIEWS -->
-            <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
-            <!-- GITHUB STATISTICS -->
-            <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right"/> </a>
-        </p>
-    </details>
+    <!--  TOP LANGUAGES STATISTICS -->
+    <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=dark&layout=compact&show_icons=true&hide_border=false&align=left&width=40%25"/> </a>
+    <p align="center">
+        <!--  PROFILE VIEWS -->
+        <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
+        <!-- GITHUB STATISTICS -->
+        <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right"/> </a>
+    </p>
+</details>
+
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
     <!--  CONTRIBUTION AND STREAK BLOCK -->
-    <a herf="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
+    <a href="https://git.io/streak-stats">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
-    ---
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
         <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
     </a>
+</p>
 
   </code>
 </p>
