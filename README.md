@@ -40,10 +40,10 @@
     </a>
     <!--  PROFILE VIEWS -->
     <a>
-        <p align="right">
+        <a align="right">
             📶 Profile Count &nbsp; <br>
             <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
-        </p>
+        </a>
     </a>
 </p>
 <br><br>
