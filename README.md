@@ -42,8 +42,8 @@
     <!-- <a align="right">
         📶 Profile Count &nbsp; <br>
     </a> -->
-    📶 Profile Count &nbsp; <br>
-    <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
+    <!-- 📶 Profile Count &nbsp; <br> -->
+    <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
 </p>
 <br><br>
 <!-- ACTIVITY GRAPH TRACKER -->
