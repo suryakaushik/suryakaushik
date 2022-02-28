@@ -38,10 +38,10 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
 </a>
 <!--  PROFILE VIEWS -->
-<a align="center">
+<p align="center">
     📶 Profile Count &nbsp;
     <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
-</a>
+</p>
 <br><br>
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
