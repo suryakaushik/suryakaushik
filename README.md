@@ -39,11 +39,14 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
     <!--  PROFILE VIEWS -->
-    <a> <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
+    <a>
+        <p align="center">Profile Count</p>
+        <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
+    </a>
     <br><br>
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
-        <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center&layout=compact"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
     </a>
 </p>
 
