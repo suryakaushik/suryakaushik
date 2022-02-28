@@ -30,10 +30,8 @@
 <p align="center">
     <!--  TOP LANGUAGES STATISTICS -->
     <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=dark&layout=compact&show_icons=true&hide_border=false&align=left&width=40%25"/> </a>
-    <!--  PROFILE VIEWS -->
-    <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
     <!-- GITHUB STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right"/> </a>
+    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right&theme=dark"/> </a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -42,6 +40,8 @@
     <a href="https://git.io/streak-stats">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
+    <!--  PROFILE VIEWS -->
+    <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/> </a>
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
         <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
