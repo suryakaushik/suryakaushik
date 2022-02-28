@@ -37,12 +37,12 @@
 <a align="center" href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
 </a>
+<br>
 <!--  PROFILE VIEWS -->
 <p align="center">
-    📶 Profile Count &nbsp;
-    <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
+    📶 PROFILE COUNT &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
 </p>
-<br><br>
+<br>
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
