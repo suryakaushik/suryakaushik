@@ -29,7 +29,7 @@
     <!-- GITHUB STATISTICS -->
     <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=center&theme=algolia&langs_count=8"/> </a>
     <!--  TOP LANGUAGES STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=algolia&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&align=right&width=40%25"/> </a>
+    <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=algolia&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&align=right"/> </a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -37,11 +37,11 @@
 <a align="center" href="https://git.io/streak-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
 </a>
-<br>
 <!--  PROFILE VIEWS -->
-<p align="center">
+<br>
+<a align="center">
     📶 PROFILE COUNT &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
-</p>
+</a>
 <br>
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
