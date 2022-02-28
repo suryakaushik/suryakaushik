@@ -1,4 +1,5 @@
-<h1 align=center>Hello there👋 </h1>
+<h1 align="center">Hello there👋 </h1>
+
 <!-- SOCIAL MEDIA HANDLES -->
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
@@ -11,7 +12,7 @@
 </p>
 
 <!--ABOUT ME CODE-->
-### 👨🏻‍💻 &nbsp;**About myself**<br><br>
+### 👨🏻‍💻 &nbsp;**About myself**<br>
 <samp>
 🌱 I am **Kaushik Kandikonda**, graduated in BE-ECE and currently working as a Software Developer at _Accolite Digital_<br>
 :notebook: I am an avid reader of new tech like HTTP/3, Serverless and Cloud Computing, Building Distributed Infrastructure(System Design) and a beginner in Competitive Programming.<br>
@@ -21,23 +22,19 @@
 📝 [Resume]() <br>
 </samp>
 
-<br>
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<a align="right" href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star </a>
+<br><a align="right" href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star </a><br>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
-<br>
-<details>
-    <summary>:zap: GitHub Stats</summary>
+### :zap:  &nbsp;GitHub Stats
+<p align="center">
     <!--  TOP LANGUAGES STATISTICS -->
     <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=dark&layout=compact&show_icons=true&hide_border=false&align=left&width=40%25"/> </a>
-    <p align="center">
-        <!--  PROFILE VIEWS -->
-        <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
-        <!-- GITHUB STATISTICS -->
-        <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right"/> </a>
-    </p>
-</details>
+    <!--  PROFILE VIEWS -->
+    <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
+    <!-- GITHUB STATISTICS -->
+    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right"/> </a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
