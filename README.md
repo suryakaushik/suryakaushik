@@ -42,7 +42,7 @@
     <a>
         <a align="right">
             📶 Profile Count &nbsp; <br>
-            <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
+            <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
         </a>
     </a>
 </p>
