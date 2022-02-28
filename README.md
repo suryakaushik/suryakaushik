@@ -41,7 +41,7 @@
     <!--  PROFILE VIEWS -->
     <a>
         <a align="right">
-            📶 Profile Count &nbsp; <br>
+            <p>📶 Profile Count &nbsp;</p>
             <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/>
         </a>
     </a>
