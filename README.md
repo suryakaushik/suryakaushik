@@ -24,33 +24,30 @@
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <br>
-    <p align="href"><a href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star</a></p>
+    <p align="right"><a href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star</a></p>
 <br>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
 ### :zap:  &nbsp;GitHub Stats
 <p align="center">
-    <!--  TOP LANGUAGES STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=dark&layout=compact&show_icons=true&hide_border=false&align=left&width=40%25"/> </a>
     <!-- GITHUB STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=right&theme=dark"/> </a>
+    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=center&theme=algolia&layout=compact&langs_count=8"/> </a>
+    <!--  TOP LANGUAGES STATISTICS -->
+    <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=algolia&include_all_commits=true&count_private=true&layout=compact&show_icons=true&hide_border=false&align=right&width=40%25"/> </a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <!--  CONTRIBUTION AND STREAK BLOCK -->
     <a href="https://git.io/streak-stats">
-        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=left"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
     <!--  PROFILE VIEWS -->
     <a> <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
-        <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
+        <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center&layout=compact"/>
     </a>
-</p>
-
-  </code>
 </p>
 
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)
