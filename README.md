@@ -22,10 +22,7 @@
 </samp>
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryakaushik" /></a> </p>
-
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<p align="right"><a href="https://stars.github.com/nominate/">⭐ Love what you see, Nominate me for GitHub Star</a></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryakaushik" /></a> </p>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
 ### :zap:  &nbsp;GitHub Stats
@@ -54,6 +51,8 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
 </a>
 
+<!--NOMINATION FOR STAR GIT LINK CODE-->
+<p align="right"><a href="https://stars.github.com/nominate/">⭐ Love what you see, Nominate me for GitHub Star</a></p>
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
  -->
