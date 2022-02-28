@@ -19,11 +19,13 @@
 :sparkles: Favorite TechStack: JavaScript, React, Typescript. <br>
 :briefcase: I did various projects in ML/DL, IoT, Web Apps using React and Angular7<br>
 :art: Portfolio: https://suryakaushik.github.io/<br>
-📝 [Resume]() <br>
+📝 [Resume](https://drive.google.com/file/d/1RH3smHEAM59p6gCJ1A4s8y0oDe5JRB-b/view?usp=sharing) <br>
 </samp>
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<br><a align="right" href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star </a><br>
+<br>
+    <p align="href"><a href="https://stars.github.com/nominate/">You love what you see, Nominate me for GitHub Star</a></p>
+<br>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&theme=radical" alt="SuryaKaushik" /> -->
 ### :zap:  &nbsp;GitHub Stats
@@ -38,10 +40,10 @@
 <p align="center">
     <!--  CONTRIBUTION AND STREAK BLOCK -->
     <a href="https://git.io/streak-stats">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
+        <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=left"/>
     </a>
     <!--  PROFILE VIEWS -->
-    <a> <img src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/> </a>
+    <a> <img align="right" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=right"/> </a>
     <!-- ACTIVITY GRAPH TRACKER -->
     <a>
         <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
