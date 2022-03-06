@@ -17,7 +17,7 @@
 :notebook: I am an avid reader of new tech like HTTP/3, Serverless and Cloud Computing, Building Distributed Infrastructure(System Design) and a beginner in Competitive Programming.<br>
 :sparkles: Favorite TechStack: JavaScript, React, Typescript. <br>
 :briefcase: I did various projects in ML/DL, IoT, Web Apps using React and Angular7<br>
-:art: Portfolio: https://suryakaushik.github.io/<br>
+:art: Portfolio: https://suryakaushik.vercel.app/<br>
 📝 <a href="https://drive.google.com/file/d/1RH3smHEAM59p6gCJ1A4s8y0oDe5JRB-b/view?usp=sharing">Resume</a> <br>
 </samp>
 
