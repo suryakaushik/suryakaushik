@@ -28,7 +28,7 @@
 ### :zap:  &nbsp;GitHub Stats
 <p align="center">
     <!-- GITHUB STATISTICS -->
-    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=center&theme=algolia&langs_count=8"/> </a>
+    <a> <img src="https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&hide_border=false&align=center&theme=algolia&langs_count=8&layout=compact"/> </a>
     <!--  TOP LANGUAGES STATISTICS -->
     <a> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=algolia&include_all_commits=true&count_private=true&show_icons=true&hide_border=false&align=right"/> </a>
 </p>
