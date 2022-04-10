@@ -25,9 +25,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suryakaushik" /></a> </p>
 
 <p>
-<a align="left" href="https://www.buymeacoffee.com/klsskaushik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a align="right" href="https://suryakaushik.vercel.app/" target="_blank">Visit my Website--></a>
+<a align="right" href="https://www.buymeacoffee.com/klsskaushik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
+<a align="right" href="https://suryakaushik.vercel.app/" target="_blank">Visit my Website--></a>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ### :zap:  &nbsp;GitHub Stats
