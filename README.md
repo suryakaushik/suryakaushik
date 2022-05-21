@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋 </h1>
+<h1 align="center">Hello there👋 I'm <a href="https://suryakaushik.vercel.app" target="_blank">Kaushik Kandikonda</a></h1>
 
 <p align="right">
     <a> <img align="left" src="https://komarev.com/ghpvc/?username=suryakaushik&label=Profile%20views&color=0e75b6&style=flat" /> </a>
