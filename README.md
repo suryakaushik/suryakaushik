@@ -1,10 +1,8 @@
-<h1 align="center">Hello there👋 I'm <a href="https://suryakaushik.vercel.app" target="_blank">Kaushik Kandikonda</a></h1>
+<h1 align="center">Hello there👋 I'm Kaushik Kandikonda</h1>
+<!-- <a href="https://suryakaushik.vercel.app" target="_blank">Kaushik Kandikonda</a> -->
 
 <p align="right">
     <a> <img align="left" src="https://komarev.com/ghpvc/?username=suryakaushik&label=Profile%20views&color=0e75b6&style=flat" /> </a>
-    <a href="https://www.linkedin.com/surya-kaushik/">
-        <img src="https://img.shields.io/badge/-Surya%20Kaushik-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-    </a>
     <a href="mailto:klsskaushik718@gmail.com">
         <img src="https://img.shields.io/badge/-klsskaushik718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
