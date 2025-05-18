@@ -1,17 +1,17 @@
-<h1 align="center">Hello there👋 I'm Kaushik Kandikonda</h1>
-<!-- <a href="https://suryakaushik.vercel.app" target="_blank">Kaushik Kandikonda</a> -->
+<h1 align="center">Hello there👋 I'm Kaushik</h1>
+<!-- <a href="https://suryakaushik.vercel.app" target="_blank">Kaushik</a> -->
 
 <p align="right">
     <a> <img align="left" src="https://komarev.com/ghpvc/?username=suryakaushik&label=Profile%20views&color=0e75b6&style=flat" /> </a>
-    <a href="mailto:klsskaushik718@gmail.com">
+<!--     <a href="mailto:klsskaushik718@gmail.com">
         <img src="https://img.shields.io/badge/-klsskaushik718@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
+    </a> -->
 </p>
 
 <!--ABOUT ME CODE-->
 ### 👨🏻‍💻 &nbsp;**About myself**<br>
 <samp>
-🌱 I am <b>Kaushik Kandikonda</b>, graduated in BE-ECE and currently working as a Software Developer at <i>Accolite Digital</i><br>
+🌱 I am <b>Kaushik</b>, graduated in BE-ECE and currently working as a Software Developer at <i>Accolite Digital</i><br>
 :notebook: I am an avid reader of new tech like HTTP/3, Serverless and Cloud Computing, Building Distributed Infrastructure(System Design) and a beginner in Competitive Programming.<br>
 :sparkles: Favorite TechStack: JavaScript, React, Typescript. <br>
 :briefcase: I did various projects in ML/DL, IoT, Web Apps using React and Angular7<br>
