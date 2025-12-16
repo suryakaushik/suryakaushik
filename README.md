@@ -16,7 +16,7 @@
 :sparkles: Favorite TechStack: JavaScript, React, Typescript. <br>
 :briefcase: I did various projects in ML/DL, IoT, Web Apps using React and Angular7<br>
 :art: Portfolio: https://suryakaushik.vercel.app/<br>
-📝 <a href="https://drive.google.com/file/d/1RH3smHEAM59p6gCJ1A4s8y0oDe5JRB-b/view?usp=sharing">Resume</a> <br>
+<!--   📝 <a href="https://drive.google.com/file/d/1RH3smHEAM59p6gCJ1A4s8y0oDe5JRB-b/view?usp=sharing">Resume</a> <br> -->
 </samp>
 
 <br>
@@ -27,7 +27,8 @@
  <!--  TOP LANGUAGES STATISTICS & GITHUB STATS -->
 <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&layout=compact&include_all_commits=true&count_private=true&show_icons=true" /> <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/?username=suryakaushik&langs_count=8&theme=graywhite" /> 
 
-### ⚙️ &nbsp;GitHub Analytics
+
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
     <!--  CONTRIBUTION AND STREAK BLOCK -->
     <a href="https://git.io/streak-stats">
@@ -43,7 +44,7 @@
 <!-- ACTIVITY GRAPH TRACKER -->
 <a>
     <img src="https://activity-graph.herokuapp.com/graph?username=suryakaushik&theme=react-dark&align=center"/>
-</a>
+</a> -->
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
 <a align="left" href="https://www.buymeacoffee.com/klsskaushik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -51,3 +52,4 @@
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
  -->
+
