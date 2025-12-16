@@ -27,15 +27,13 @@
  <!--  TOP LANGUAGES STATISTICS & GITHUB STATS -->
 <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakaushik&theme=graywhite&hide=css,tsql&layout=compact&include_all_commits=true&count_private=true&show_icons=true" /> <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/?username=suryakaushik&langs_count=8&theme=graywhite" /> 
 
-### ⚙️ &nbsp;GitHub Analytics
+<!--  ### ⚙️ &nbsp;GitHub Analytics-->
 <p align="center">
-    <!--  CONTRIBUTION AND STREAK BLOCK -->
     
 <!-- <a href="https://git.io/streak-stats">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakaushik&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl&align=center"/>
     </a>
     <br><br> -->
-    <!--  PROFILE VIEWS -->
     
 <!-- <a>
         📶 <b>GITHUB PAGE COUNT<b> &nbsp;&nbsp; <img align="center" src="https://profile-counter.glitch.me/suryakaushik/count.svg?align=center"/>
@@ -49,10 +47,11 @@
 </a> -->
 
 <!--NOMINATION FOR STAR GIT LINK CODE-->
-<a align="left" href="https://www.buymeacoffee.com/klsskaushik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<!--<a align="left" href="https://www.buymeacoffee.com/klsskaushik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>-->
 <p align="right"><a href="https://stars.github.com/nominate/">⭐ Love what you see, Nominate me for GitHub Star</a></p>
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=suryakaushik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=left)
 <center><img src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=736&zoom=2" align="right" width="30%"></center>
  -->
+
 
 
